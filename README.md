@@ -60,16 +60,16 @@ Task added successfully!
 
 ### ✅ 1. `tasks.txt` File After Adding Tasks
 
-![Tasks File](../../ss/Screenshot%202025-04-03%20230116.png)
+![Tasks File](ss/Screenshot-2025-04-03-230116.png)
 
 ### ✅ 2. Terminal Output - Task Added
 
-![Task Added]("C:\Users\NIKHIL\OneDrive\Pictures\Screenshots\Screenshot 2025-04-03 230533.png")
+![Task Added](ss\Screenshot 2025-04-03 230533.png)
 
 ### ✅ 3. Marking a Task as Completed
 
-![Task Marked]("C:\Users\NIKHIL\OneDrive\Pictures\Screenshots\Screenshot 2025-04-03 230804.png")
+![Task Marked](ss\Screenshot 2025-04-03 230804.png)
 
 ### ✅ 4. Removing a Task
 
-![Task Removed]("C:\Users\NIKHIL\OneDrive\Pictures\Screenshots\Screenshot 2025-04-03 230847.png")
+![Task Removed](ss\Screenshot 2025-04-03 230847.png)
