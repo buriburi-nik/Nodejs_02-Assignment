@@ -36,7 +36,7 @@ The program uses the following **Node.js modules**:
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/buriburi-nik/Nodejs_02-Assignment/
+git clone https://github.com/buriburi-nik/Nodejs_02-Assignment
 
 
 ```
@@ -60,7 +60,7 @@ Task added successfully!
 
 ### ✅ 1. `tasks.txt` File After Adding Tasks
 
-![Tasks File]("C:\Users\NIKHIL\OneDrive\Pictures\Screenshots\Screenshot 2025-04-03 230116.png")
+![Tasks File]("../../ss/Screenshot%202025-04-03%20230116.png")
 
 ### ✅ 2. Terminal Output - Task Added
 
