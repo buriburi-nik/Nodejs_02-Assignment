@@ -64,12 +64,12 @@ Task added successfully!
 
 ### ✅ 2. Terminal Output - Task Added
 
-![Task Added](ss\Screenshot 2025-04-03 230533.png)
+![Task Added](ss/Screenshot-2025-04-03-230533.png)
 
 ### ✅ 3. Marking a Task as Completed
 
-![Task Marked](ss\Screenshot 2025-04-03 230804.png)
+![Task Marked](ss/Screenshot-2025-04-03-230804.png)
 
 ### ✅ 4. Removing a Task
 
-![Task Removed](ss\Screenshot 2025-04-03 230847.png)
+![Task Removed](ss/Screenshot-2025-04-03-230847.png)
