@@ -40,3 +40,18 @@ git clone https://github.com/buriburi-nik/Nodejs_02-Assignment/
 
 
 ```
+
+## 📌 Example Usage
+
+```
+Task Manager Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Complete
+4. Remove Task
+5. Exit
+Choose an option: 1
+Enter the task: Buy groceries
+Task added successfully!
+
+```
