@@ -60,7 +60,7 @@ Task added successfully!
 
 ### ✅ 1. `tasks.txt` File After Adding Tasks
 
-![Tasks File]("../../ss/Screenshot%202025-04-03%20230116.png")
+![Tasks File](../../ss/Screenshot%202025-04-03%20230116.png)
 
 ### ✅ 2. Terminal Output - Task Added
 
