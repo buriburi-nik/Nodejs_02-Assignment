@@ -60,16 +60,16 @@ Task added successfully!
 
 ### ✅ 1. `tasks.txt` File After Adding Tasks
 
-![Tasks File](ss/Screenshot-2025-04-03-230116.png)
+![Tasks File](ss/1.png)
 
 ### ✅ 2. Terminal Output - Task Added
 
-![Task Added](ss/Screenshot-2025-04-03-230533.png)
+![Task Added](ss/2.png)
 
 ### ✅ 3. Marking a Task as Completed
 
-![Task Marked](ss/Screenshot-2025-04-03-230804.png)
+![Task Marked](ss/3.png)
 
 ### ✅ 4. Removing a Task
 
-![Task Removed](ss/Screenshot-2025-04-03-230847.png)
+![Task Removed](ss/4.png)
