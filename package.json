@@ -1,0 +1,17 @@
+{
+  "name": "02-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Nikhil",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
